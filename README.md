@@ -9,7 +9,7 @@ Solving a regression problem using Neural Network by updating weights using RELU
 
 * The ReLU is the most used activation function in the world right now.Since, it is used in almost all the convolutional neural networks or deep learning.
 
-'https://miro.medium.com/max/875/1*XxxiA0jJvPrHEJHD4z893g.png'
+![Test Image](https://miro.medium.com/max/875/1*XxxiA0jJvPrHEJHD4z893g.png)
 
 * As you can see, the ReLU is half rectified (from bottom). f(z) is zero when z is less than zero and f(z) is equal to z when z is above or equal to zero.
 *Range: [ 0 to infinity)
